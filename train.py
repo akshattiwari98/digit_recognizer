@@ -1,7 +1,7 @@
 import numpy as np
 import os
 from datetime import datetime
-from handwriting_detection_optimized import HandwritingDetection
+from handwritingDetection import HandwritingDetection
 
 def main():
     """Train and save the handwriting detection model"""
